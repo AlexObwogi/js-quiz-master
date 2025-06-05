@@ -1,0 +1,30 @@
+{
+  "name": "js-quiz-master",
+  "version": "1.0.0",
+  "description": "A Simple quiz app that showcases DOM manupulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexObwogi/js-quiz-master/issues"
+  },
+  "homepage": "https://github.com/AlexObwogi/js-quiz-master#readme",
+  "devDependencies": {
+    "eslint": "^9.28.0",
+    "prettier": "^3.5.3",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "firebase": "^11.8.1",
+    "lodash": "^4.17.21",
+    "nanoid": "^5.1.5"
+  }
+}
